@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/第四章 智能体经典范式构建.md",
+                "file": "FastAPI/核心知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第四章 智能体经典范式构建"
+              "title": "核心知识"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/第四章 智能体经典范式构建.md",
+                "file": "对比Java学习python/异步编程/chapter-02-协程基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第四章 智能体经典范式构建 的反向链接列表"
+              "title": "chapter-02-协程基础 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/第四章 智能体经典范式构建.md",
+                "file": "对比Java学习python/异步编程/chapter-02-协程基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第四章 智能体经典范式构建 的出链列表"
+              "title": "chapter-02-协程基础 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/第四章 智能体经典范式构建.md",
+                "file": "对比Java学习python/异步编程/chapter-02-协程基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第四章 智能体经典范式构建 的大纲"
+              "title": "chapter-02-协程基础 的大纲"
             }
           },
           {
@@ -195,5 +195,34 @@
     }
   },
   "active": "74d5925fa5f6989c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "对比Java学习python/13-yield生成器对比.md",
+    "FastAPI/核心知识.md",
+    "对比Java学习python/12-基本数据类型与类型注解对比.md",
+    "FastAPI",
+    "对比Java学习python/11-装饰器对比.md",
+    "对比Java学习python/10-变量作用域对比.md",
+    "对比Java学习python/08-join方法对比.md",
+    "对比Java学习python/07-链式调用与API设计对比.md",
+    "对比Java学习python/06-字符串插值fstring对比.md",
+    "对比Java学习python/04-类型注解与泛型对比.md",
+    "对比Java学习python/03-in运算符与字典访问对比.md",
+    "对比Java学习python/03-all函数与条件判断对比.md",
+    "对比Java学习python/01-构造函数对比.md",
+    "Python其他知识点/01-typing类型注解弃用说明.md",
+    "Python其他知识点/02-str.format花括号转义.md",
+    "Python其他知识点/03-ast.literal_eval安全解析.md",
+    "异步编程/chapter-06-常见错误.md",
+    "异步编程/chapter-05-FastAPI里什么时候写async-def.md",
+    "异步编程/chapter-04-串行vs并发.md",
+    "异步编程/chapter-03-await到底在等什么.md",
+    "异步编程/chapter-02-async-def和def有什么区别.md",
+    "异步编程/chapter-01-为什么FastAPI函数前面有async.md",
+    "对比Java学习python/异步编程/chapter-01-什么是异步编程.md",
+    "对比Java学习python/异步编程/chapter-02-协程基础.md",
+    "对比Java学习python/异步编程/chapter-04-并发执行.md",
+    "对比Java学习python/异步编程/chapter-05-同步异步桥梁.md",
+    "对比Java学习python/异步编程/chapter-06-实战异步下载器.md",
+    "异步编程"
+  ]
 }
