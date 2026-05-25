@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7a5b18b09c0c47",
+        "id": "b2461b6737b556ec",
         "type": "tabs",
         "children": [
           {
-            "id": "74d5925fa5f6989c",
+            "id": "a4d921e57111200f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FastAPI/头条项目.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "头条项目"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74d5925fa5f6989c",
+  "active": "70f2095f44784a3b",
   "lastOpenFiles": [
-    "docker.md",
     "redis docker部署.md",
     "Docker创建MySQL镜像.md",
+    "python-learning-notes",
+    "FastAPI/核心知识.md",
     "FastAPI/头条项目.md",
     "FastAPI/SQLAlchemy.md",
-    "FastAPI/核心知识.md",
     "Python其他知识点/03-ast.literal_eval安全解析.md",
     "Python其他知识点/02-str.format花括号转义.md",
     "Python其他知识点/01-typing类型注解弃用说明.md",
@@ -224,6 +220,7 @@
     "异步编程/chapter-06-常见错误.md",
     "异步编程/chapter-05-FastAPI里什么时候写async-def.md",
     "异步编程/chapter-04-串行vs并发.md",
+    "异步编程/chapter-03-await到底在等什么.md",
     "异步编程"
   ]
 }
