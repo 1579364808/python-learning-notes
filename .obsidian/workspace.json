@@ -11,10 +11,14 @@
             "id": "a4d921e57111200f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Docker创建MySQL镜像.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Docker创建MySQL镜像"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f2095f44784a3b",
+  "active": "a4d921e57111200f",
   "lastOpenFiles": [
     "redis docker部署.md",
     "Docker创建MySQL镜像.md",
