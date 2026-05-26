@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker创建MySQL镜像.md",
+                "file": "Python其他知识点/04-uv项目管理工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker创建MySQL镜像"
+              "title": "04-uv项目管理工具"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dba51727770b3cf8",
@@ -88,6 +88,21 @@
         "id": "e4f3e0745ec5c0f1",
         "type": "tabs",
         "children": [
+          {
+            "id": "ea2a04af743cc1d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FastAPI/登录注册流程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "登录注册流程 的大纲"
+            }
+          },
           {
             "id": "d5339d4551cfc5a2",
             "type": "leaf",
@@ -151,21 +166,6 @@
             }
           },
           {
-            "id": "ea2a04af743cc1d7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "FastAPI/头条项目.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "头条项目 的大纲"
-            }
-          },
-          {
             "id": "48183b423e25d6c1",
             "type": "leaf",
             "state": {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +191,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "a4d921e57111200f",
   "lastOpenFiles": [
-    "redis docker部署.md",
-    "Docker创建MySQL镜像.md",
-    "python-learning-notes",
-    "FastAPI/核心知识.md",
+    "FastAPI/登录注册流程.md",
+    "uv项目管理工具.md",
+    "Python其他知识点/04-uv项目管理工具.md",
+    "FastAPI/统一成功响应格式.md",
     "FastAPI/头条项目.md",
+    "FastAPI/全局异常处理器.md",
+    "FastAPI/头条项目开发流程.md",
+    "FastAPI/passlib密码哈希.md",
     "FastAPI/SQLAlchemy.md",
+    "FastAPI/核心知识.md",
+    "Docker创建MySQL镜像.md",
+    "redis docker部署.md",
+    "python-learning-notes",
     "Python其他知识点/03-ast.literal_eval安全解析.md",
     "Python其他知识点/02-str.format花括号转义.md",
     "Python其他知识点/01-typing类型注解弃用说明.md",
@@ -218,13 +226,6 @@
     "对比Java学习python/11-装饰器对比.md",
     "对比Java学习python/10-变量作用域对比.md",
     "对比Java学习python/08-join方法对比.md",
-    "对比Java学习python/07-链式调用与API设计对比.md",
-    "对比Java学习python/04-类型注解与泛型对比.md",
-    "对比Java学习python/03-all函数与条件判断对比.md",
-    "异步编程/chapter-06-常见错误.md",
-    "异步编程/chapter-05-FastAPI里什么时候写async-def.md",
-    "异步编程/chapter-04-串行vs并发.md",
-    "异步编程/chapter-03-await到底在等什么.md",
     "异步编程"
   ]
 }
