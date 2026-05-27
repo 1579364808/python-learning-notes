@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/头条项目.md",
+                "file": "FastAPI/model_dump_vs_MyBatis动态SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "头条项目"
+              "title": "model_dump_vs_MyBatis动态SQL"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48183b423e25d6c1",
+  "active": "74d5925fa5f6989c",
   "lastOpenFiles": [
+    "FastAPI/头条项目.md",
     "uv项目管理工具.md",
     "model_dump动态字段对比.md",
     "FastAPI/统一成功响应格式.md",
@@ -209,7 +210,6 @@
     "docker.md",
     "redis docker部署.md",
     "Docker创建MySQL镜像.md",
-    "FastAPI/头条项目.md",
     "FastAPI/SQLAlchemy.md",
     "FastAPI/核心知识.md",
     "Python其他知识点/03-ast.literal_eval安全解析.md",
