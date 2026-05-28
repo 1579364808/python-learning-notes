@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b2461b6737b556ec",
+        "id": "ec7a5b18b09c0c47",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d921e57111200f",
+            "id": "74d5925fa5f6989c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "FastAPI/SQLAlchemy.md",
+=======
+                "file": "FastAPI/model_dump_vs_MyBatis动态SQL.md",
+>>>>>>> origin/master
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "SQLAlchemy"
+=======
+              "title": "model_dump_vs_MyBatis动态SQL"
+>>>>>>> origin/master
             }
           }
         ]
@@ -78,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 300
   },
   "right": {
     "id": "dba51727770b3cf8",
@@ -89,6 +97,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "ea2a04af743cc1d7",
             "type": "leaf",
             "state": {
@@ -104,6 +113,8 @@
             }
           },
           {
+=======
+>>>>>>> origin/master
             "id": "d5339d4551cfc5a2",
             "type": "leaf",
             "state": {
@@ -166,6 +177,21 @@
             }
           },
           {
+            "id": "ea2a04af743cc1d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FastAPI/头条项目.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "头条项目 的大纲"
+            }
+          },
+          {
             "id": "48183b423e25d6c1",
             "type": "leaf",
             "state": {
@@ -180,7 +206,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 498.5
+=======
+    "width": 300
+>>>>>>> origin/master
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +221,10 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "48183b423e25d6c1",
   "lastOpenFiles": [
     "FastAPI/SQLAlchemy.md.tmp.39220.7ea92a157d93",
@@ -227,12 +257,45 @@
     "FastAPI/登录注册流程.md",
     "对比Java学习python/14-依赖注入Depends对比.md",
     "对比Java学习python/12-基本数据类型与类型注解对比.md",
+=======
+  "active": "74d5925fa5f6989c",
+  "lastOpenFiles": [
+    "FastAPI/头条项目.md",
+>>>>>>> origin/master
     "uv项目管理工具.md",
-    "Docker创建MySQL镜像.md",
+    "model_dump动态字段对比.md",
+    "FastAPI/统一成功响应格式.md",
+    "FastAPI/登录注册流程.md",
+    "FastAPI/头条项目开发流程.md",
+    "FastAPI/全局异常处理器.md",
+    "FastAPI/passlib密码哈希.md",
+    "FastAPI/model_dump_vs_MyBatis动态SQL.md",
+    "FastAPI/HTTP基础.md",
+    "FastAPI/HTTP参数获取方式_FastAPI_vs_SpringBoot.md",
+    "docker.md",
     "redis docker部署.md",
+<<<<<<< HEAD
     "Python其他知识点/03-ast.literal_eval安全解析.md",
     "Python其他知识点/02-str.format花括号转义.md",
     "Python其他知识点/01-typing类型注解弃用说明.md",
     "对比Java学习python/03-in运算符与字典访问对比.md"
+=======
+    "Docker创建MySQL镜像.md",
+    "FastAPI/SQLAlchemy.md",
+    "FastAPI/核心知识.md",
+    "Python其他知识点/03-ast.literal_eval安全解析.md",
+    "Python其他知识点/02-str.format花括号转义.md",
+    "Python其他知识点/01-typing类型注解弃用说明.md",
+    "对比Java学习python/03-in运算符与字典访问对比.md",
+    "材料.pdf",
+    "对比Java学习python/02-类属性定义对比.md",
+    "对比Java学习python/01-构造函数对比.md",
+    "对比Java学习python/06-字符串插值fstring对比.md",
+    "对比Java学习python/13-yield生成器对比.md",
+    "Clippings/第四章 智能体经典范式构建.md",
+    "对比Java学习python/14-依赖注入Depends对比.md",
+    "FastAPI",
+    "异步编程"
+>>>>>>> origin/master
   ]
 }
