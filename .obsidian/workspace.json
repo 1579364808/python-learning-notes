@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/头条项目.md",
+                "file": "FastAPI/SQLAlchemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "头条项目"
+              "title": "SQLAlchemy"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI/头条项目.md",
+                "file": "FastAPI/SQLAlchemy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "头条项目 的大纲"
+              "title": "SQLAlchemy 的大纲"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,30 +195,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a4d921e57111200f",
+  "active": "48183b423e25d6c1",
   "lastOpenFiles": [
-    "FastAPI/统一成功响应格式.md",
-    "FastAPI/Pydantic.md",
+    "FastAPI/SQLAlchemy.md.tmp.39220.7ea92a157d93",
+    "FastAPI/三件套/FastAPI从零开始.md",
+    "FastAPI/SQLAlchemy.md",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.26dc442fb277",
     "FastAPI/passlib密码哈希.md",
-    "FastAPI/核心知识.md",
-    "FastAPI/Pydantic.md.tmp.39220.c01a44a8b5ff",
-    "FastAPI/Pydantic.md.tmp.39220.3baaefa529b2",
-    "FastAPI/Pydantic.md.tmp.39220.26986f991039",
-    "FastAPI/Pydantic.md.tmp.39220.90fab12eb2ed",
-    "FastAPI/Pydantic.md.tmp.39220.e23987c51903",
-    "FastAPI/Pydantic.md.tmp.39220.1e0bd31a92fd",
-    "FastAPI/Pydantic-flow.canvas",
-    "FastAPI/Pydantic.md.tmp.38628.62a9e041ee93",
-    "FastAPI/Pydantic.md.tmp.38628.e5a46d4d972e",
-    "model_dump动态字段对比.md",
     "FastAPI/model_dump_vs_MyBatis动态SQL.md",
-    "FastAPI/Pydantic_model_dump动态字段更新.md",
-    "FastAPI/头条项目.md",
+    "FastAPI/HTTP基础.md",
     "FastAPI/HTTP参数获取方式_FastAPI_vs_SpringBoot.md",
     "FastAPI/全局异常处理器.md",
+    "FastAPI/三件套/Pydantic.md",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.d8470cd0b6fb",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.0a9f4ec48610",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.62646cb6dda5",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.5992d4f8e438",
+    "FastAPI/三件套",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.48de86b1df1a",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.30a3d858ebd2",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.48c35476d426",
+    "FastAPI/FastAPI从零开始.md.tmp.39220.6bf831bf37f5",
+    "FastAPI/头条项目.md",
+    "FastAPI/统一成功响应格式.md",
+    "FastAPI/核心知识.md",
+    "FastAPI/Pydantic-flow.canvas",
+    "model_dump动态字段对比.md",
+    "FastAPI/Pydantic_model_dump动态字段更新.md",
     "FastAPI/FastAPI参数声明对比.md",
-    "FastAPI/SQLAlchemy.md",
-    "FastAPI/HTTP基础.md",
     "FastAPI/头条项目开发流程.md",
     "FastAPI/登录注册流程.md",
     "对比Java学习python/14-依赖注入Depends对比.md",
@@ -226,12 +230,9 @@
     "uv项目管理工具.md",
     "Docker创建MySQL镜像.md",
     "redis docker部署.md",
-    "python-learning-notes",
     "Python其他知识点/03-ast.literal_eval安全解析.md",
     "Python其他知识点/02-str.format花括号转义.md",
     "Python其他知识点/01-typing类型注解弃用说明.md",
-    "对比Java学习python/03-in运算符与字典访问对比.md",
-    "材料.pdf",
-    "对比Java学习python/02-类属性定义对比.md"
+    "对比Java学习python/03-in运算符与字典访问对比.md"
   ]
 }
