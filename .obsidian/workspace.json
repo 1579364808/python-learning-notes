@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model_dump动态字段对比.md",
+                "file": "FastAPI/头条项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "model_dump动态字段对比"
+              "title": "头条项目"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model_dump动态字段对比.md",
+                "file": "FastAPI/头条项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "model_dump动态字段对比 的大纲"
+              "title": "头条项目 的大纲"
             }
           },
           {
@@ -195,18 +195,28 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "70f2095f44784a3b",
+  "active": "a4d921e57111200f",
   "lastOpenFiles": [
+    "FastAPI/统一成功响应格式.md",
+    "FastAPI/Pydantic.md",
+    "FastAPI/passlib密码哈希.md",
+    "FastAPI/核心知识.md",
+    "FastAPI/Pydantic.md.tmp.39220.c01a44a8b5ff",
+    "FastAPI/Pydantic.md.tmp.39220.3baaefa529b2",
+    "FastAPI/Pydantic.md.tmp.39220.26986f991039",
+    "FastAPI/Pydantic.md.tmp.39220.90fab12eb2ed",
+    "FastAPI/Pydantic.md.tmp.39220.e23987c51903",
+    "FastAPI/Pydantic.md.tmp.39220.1e0bd31a92fd",
+    "FastAPI/Pydantic-flow.canvas",
+    "FastAPI/Pydantic.md.tmp.38628.62a9e041ee93",
+    "FastAPI/Pydantic.md.tmp.38628.e5a46d4d972e",
+    "model_dump动态字段对比.md",
     "FastAPI/model_dump_vs_MyBatis动态SQL.md",
     "FastAPI/Pydantic_model_dump动态字段更新.md",
     "FastAPI/头条项目.md",
-    "model_dump动态字段对比.md",
-    "FastAPI/核心知识.md",
-    "FastAPI/统一成功响应格式.md",
     "FastAPI/HTTP参数获取方式_FastAPI_vs_SpringBoot.md",
     "FastAPI/全局异常处理器.md",
     "FastAPI/FastAPI参数声明对比.md",
-    "FastAPI/passlib密码哈希.md",
     "FastAPI/SQLAlchemy.md",
     "FastAPI/HTTP基础.md",
     "FastAPI/头条项目开发流程.md",
@@ -222,10 +232,6 @@
     "Python其他知识点/01-typing类型注解弃用说明.md",
     "对比Java学习python/03-in运算符与字典访问对比.md",
     "材料.pdf",
-    "对比Java学习python/02-类属性定义对比.md",
-    "对比Java学习python/01-构造函数对比.md",
-    "对比Java学习python/06-字符串插值fstring对比.md",
-    "FastAPI",
-    "异步编程"
+    "对比Java学习python/02-类属性定义对比.md"
   ]
 }
