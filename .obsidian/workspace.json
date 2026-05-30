@@ -197,6 +197,11 @@
   },
   "active": "70f2095f44784a3b",
   "lastOpenFiles": [
+    "FastAPI/登录注册流程.md",
+    "conflict-files-obsidian-git.md",
+    "FastAPI/三件套/Pydantic.md",
+    "FastAPI/三件套/FastAPI从零开始.md",
+    "FastAPI/三件套",
     "FastAPI/头条项目.md",
     "FastAPI/SQLAlchemy vs JPA —— db.add() 完全解读.md",
     "FastAPI/SQLAlchemy —— db.add() 完全解读（MyBatis 视角）.md",
@@ -204,7 +209,6 @@
     "uv项目管理工具.md",
     "model_dump动态字段对比.md",
     "FastAPI/统一成功响应格式.md",
-    "FastAPI/登录注册流程.md",
     "FastAPI/头条项目开发流程.md",
     "FastAPI/全局异常处理器.md",
     "FastAPI/passlib密码哈希.md",
@@ -221,9 +225,6 @@
     "对比Java学习python/03-in运算符与字典访问对比.md",
     "材料.pdf",
     "对比Java学习python/02-类属性定义对比.md",
-    "对比Java学习python/01-构造函数对比.md",
-    "对比Java学习python/06-字符串插值fstring对比.md",
-    "对比Java学习python/13-yield生成器对比.md",
     "FastAPI",
     "异步编程"
   ]
