@@ -195,10 +195,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a4d921e57111200f",
+  "active": "ea2a04af743cc1d7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "FastAPI/SQLAlchemy.md.tmp.39220.69230aa29646",
+    "FastAPI/SQLAlchemy.md.tmp.39220.466eebf2ee72",
+    "FastAPI/头条项目.md",
+    "FastAPI/三件套/Pydantic.md",
     "FastAPI/SQLAlchemy.md",
+    "FastAPI/SQLAlchemy.md.tmp.39220.73272266a68f",
+    "FastAPI/SQLAlchemy.md.tmp.39220.72118217855f",
+    "FastAPI/SQLAlchemy.md.tmp.39220.c6a4e1c7047d",
+    "conflict-files-obsidian-git.md",
     "FastAPI/SQLAlchemy.md.tmp.39220.7ea92a157d93",
     "FastAPI/三件套/FastAPI从零开始.md",
     "FastAPI/FastAPI从零开始.md.tmp.39220.26dc442fb277",
@@ -207,16 +214,10 @@
     "FastAPI/HTTP基础.md",
     "FastAPI/HTTP参数获取方式_FastAPI_vs_SpringBoot.md",
     "FastAPI/全局异常处理器.md",
-    "FastAPI/三件套/Pydantic.md",
     "FastAPI/FastAPI从零开始.md.tmp.39220.d8470cd0b6fb",
     "FastAPI/FastAPI从零开始.md.tmp.39220.0a9f4ec48610",
     "FastAPI/FastAPI从零开始.md.tmp.39220.62646cb6dda5",
     "FastAPI/FastAPI从零开始.md.tmp.39220.5992d4f8e438",
-    "FastAPI/三件套",
-    "FastAPI/FastAPI从零开始.md.tmp.39220.48de86b1df1a",
-    "FastAPI/FastAPI从零开始.md.tmp.39220.30a3d858ebd2",
-    "FastAPI/FastAPI从零开始.md.tmp.39220.48c35476d426",
-    "FastAPI/头条项目.md",
     "FastAPI/统一成功响应格式.md",
     "FastAPI/核心知识.md",
     "FastAPI/Pydantic-flow.canvas",
@@ -232,7 +233,6 @@
     "redis docker部署.md",
     "Python其他知识点/03-ast.literal_eval安全解析.md",
     "Python其他知识点/02-str.format花括号转义.md",
-    "Python其他知识点/01-typing类型注解弃用说明.md",
-    "对比Java学习python/03-in运算符与字典访问对比.md"
+    "Python其他知识点/01-typing类型注解弃用说明.md"
   ]
 }
